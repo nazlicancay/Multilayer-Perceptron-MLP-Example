@@ -10,3 +10,4 @@ Output layer'da 2 nöron olacak. veriye uygun Cross Entropy loss yöntemini uygu
 Optimizasyon için Stochastic Gradient Descent 
 Epoch sayınızı ve learning rate'i validasyon seti üzerinde denemeler yaparak (loss'lara overfit var mı diye bakarak) kendiniz belirleyeceğiz. 
 Batch size'ımız 16 
+[Multilayer Perceptron (MLP) Saving The Princess_1]
